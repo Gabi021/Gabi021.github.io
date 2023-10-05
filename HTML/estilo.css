@@ -1,0 +1,22 @@
+#unico{background-color: rgb(247, 195, 100);
+padding: 20px;} 
+.colurna{background-color: rgb(241, 181, 70);
+padding: 20px;
+width: 12%;
+margin: 30px;}
+.padre{display: flex;}
+h1{
+    text-shadow: 3px 2px 3px red,
+    2px 2px 1px blue;
+    text-align: center;
+}
+.colurna{
+    text-align: center;
+}
+.colurna1{
+    background-color: rgb(241, 181, 70);
+    padding: 20px;
+    width: 12%;
+    margin: 30px;
+    ;
+}
